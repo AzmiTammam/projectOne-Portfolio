@@ -778,6 +778,14 @@ footer .copyright p a {
         display: none;
     }
 
+    header.header .info-heading {
+        margin-bottom: 3em;
+    }
+
+    header.header {
+        padding-bottom: 50px;
+    }
+
     header.header {
         width: 100vw;
     }
@@ -801,7 +809,7 @@ footer .copyright p a {
     }
 
     header .info-heading {
-        max-width: 90vw;
+        max-width: 100vw;
     }
 
     header .info-heading p.bio1 {
@@ -809,8 +817,12 @@ footer .copyright p a {
     }
 
     section.skills {
-        max-width: 90vw;
+        max-width: 100vw;
         padding: 25px 0;
+    }
+
+    section.service .card-group .card {
+        margin-right: 0 !important;
     }
 
     section.clint img.map {
