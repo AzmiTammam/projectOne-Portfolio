@@ -778,8 +778,18 @@ footer .copyright p a {
         display: none;
     }
 
+    header.header {
+        width: 100vw;
+    }
+
+    section.clint .imgClint img.img4 {
+        display: none;
+    }
+
     header .info-heading .nameAzmi {
         display: inline-block;
+        font-size: 3.5em;
+        margin: 1.5em 0 0 0;
     }
 
     section.clint .heading h3:after {
